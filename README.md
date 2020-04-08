@@ -4,13 +4,12 @@
 
 - 安装git客户端
 
-> [32位下载地址](http://10.18.207.100/soft/Git-2.8.1-32-bit.exe)
-> [64位下载地址](http://10.18.207.100/soft/Git-2.8.1-64-bit.exe)
+
 
 - 执行以下命令，获取安装文件
 
 ```
-git clone http://10.18.207.100:8001/autotest/ApiTest_install
+git clone git@github.com:342164796/RobotframeworkLibrary.git
 ```
 
 ## 安装python
